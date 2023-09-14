@@ -1,2 +1,2 @@
 # shop
-SpringBoot Sample Shop
+SpringBootを利用したECショップ
